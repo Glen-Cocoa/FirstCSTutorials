@@ -1,0 +1,11 @@
+C:\Users\esteiger\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\nonsenseTutorials.csproj.CoreCompileInputs.cache
+C:\Users\esteiger\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\nonsenseTutorials.AssemblyInfoInputs.cache
+C:\Users\esteiger\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\nonsenseTutorials.AssemblyInfo.cs
+C:\Users\esteiger\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\nonsenseTutorials.deps.json
+C:\Users\esteiger\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\nonsenseTutorials.runtimeconfig.json
+C:\Users\esteiger\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\nonsenseTutorials.runtimeconfig.dev.json
+C:\Users\esteiger\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\nonsenseTutorials.dll
+C:\Users\esteiger\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\nonsenseTutorials.pdb
+C:\Users\esteiger\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\nonsenseTutorials.dll
+C:\Users\esteiger\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\nonsenseTutorials.pdb
+C:\Users\esteiger\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\nonsenseTutorials.csprojAssemblyReference.cache
